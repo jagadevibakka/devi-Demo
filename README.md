@@ -1,5 +1,6 @@
 # devi-Demo
 this is my first repo
 <br>
-Author-Jagadevi (presidency university)
+Author-Jagadevi Bakka(presidency university)
+
 
